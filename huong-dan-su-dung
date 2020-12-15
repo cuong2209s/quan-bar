@@ -1,0 +1,8 @@
+1.
+clone code về
+
+2. tạo 1 file .env và cấu hình database
+
+3. chạy câu lệnh "composer install"
+
+4. chạy php artisan serve để hưởng thụ :D
